@@ -1,0 +1,14 @@
+.normal-text {
+    text-align: left;
+    max-width: 1000px;
+}
+
+.clustering-canvas {
+  border: 1px solid black;
+}
+
+.single-cluster-warning {
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 2rem;
+}
