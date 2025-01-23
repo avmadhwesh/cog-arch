@@ -2,7 +2,7 @@ modeling of human clustering cognitive models
 with applications in algorithm approximation
 georgia tech
 
-###relevant readings
+relevant readings
 
 Marupudi, V., & Varma, S. (2023). Models of human visual clustering. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 45, No. 45).
 https://escholarship.org/uc/item/5hk9x36n
